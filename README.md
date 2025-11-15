@@ -1,33 +1,33 @@
-Portafolio de Machine Learning y Ciencia de Datos
-¡Hola! Este repositorio es una colección de mis proyectos y experimentos en Machine Learning y Deep Learning, implementados principalmente con Python, Scikit-Learn y Keras.
+<h1>Portafolio de Machine Learning y Ciencia de Datos</h1>
+<h2>¡Hola! Este repositorio es una colección de mis proyectos y experimentos en Machine Learning y Deep Learning, implementados principalmente con Python, Scikit-Learn y Keras.</h2>
 
-Proyectos
+<h4>Proyectos</h4>
 Aquí hay un desglose de los proyectos que encontrarás:
 
-1. Clasificador de Imágenes con Redes Neuronales
+<h6>1. Clasificador de Imágenes con Redes Neuronales</h6>
 Descripción: Un modelo de Red Neuronal (Keras/TensorFlow) entrenado para clasificar prendas de vestir del dataset Fashion MNIST, alcanzando un 89% de precisión.
 
 Tecnologías: Keras, TensorFlow, Python.
 
-Ver el proyecto (Jupyter Notebook)
+<a href="https://github.com/Coolthread80/ML_and_data_science/tree/main/1_Neural_Network_Classifier">Ver el proyecto (Jupyter Notebook)</a>
 
-2. Segmentación de Colores en Imágenes con KMeans
+<h6>2. Segmentación de Colores en Imágenes con KMeans</h6>
 Descripción: Un script que utiliza Clustering KMeans (aprendizaje no supervisado) para extraer la paleta de colores dominante de una imagen.
 
 Tecnologías: Scikit-Learn, Python, Matplotlib.
 
-Ver el proyecto (Jupyter Notebook)
+<a href="https://github.com/Coolthread80/ML_and_data_science/tree/main/2_Image_Segmentation_KMeans">Ver el proyecto (Jupyter Notebook)</a>
 
-3. Clasificación Clásica de ML (IRIS)
+<h6>3. Clasificación Clásica de ML (IRIS)</h6>
 Descripción: Implementación de Regresión Logística para clasificar especies de flores del dataset IRIS, logrando un 95% de precisión.
 
 Tecnologías: Scikit-Learn, Pandas, Python.
 
-Ver el proyecto (Jupyter Notebook)
+<a href="https://github.com/Coolthread80/ML_and_data_science/tree/main/3_ML_Classification_IRIS">Ver el proyecto (Jupyter Notebook)</a>
 
-4. Regresión Lineal Clásica (Emisiones CO2)
+<h6>4. Regresión Lineal Clásica (Emisiones CO2)<h6>
 Descripción: Modelo de Regresión Lineal simple para predecir emisiones de CO2 basándose en el tamaño del motor de un vehículo.
 
 Tecnologías: Scikit-Learn, Pandas, Python.
 
-Ver el proyecto (Jupyter Notebook)
+<a href="https://github.com/Coolthread80/ML_and_data_science/tree/main/4_ML_Regression_CO2">Ver el proyecto (Jupyter Notebook)</a>
